@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Levi Hinze",
+    "label": "Software Developer",
+    "picture": "https://www.gravatar.com/avatar/d9525a5cae374959073a2245450bbe05?s=200",
+    "email": "leviahinze@gmail.com",
+    "phone": "(318) 470 5871",
+    "website": "",
+    "summary": "Full stack .NET developer with agile team leadership experience.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@levi_hinze",
+        "url": "https://twitter.com/levi_hinze?lang=en"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CentralSquare Technologies (merged from Aptean Public Sector & Healthcare)",
+      "position": "Associate Architect",
+      "website": "",
+      "startDate": "2018-05-01",
+      "summary": "Responsible for providing technical guidance and the overall technical architecture of the regulatory software Jurisdiction Online.",
+      "highlights": [
+        "Migrated our SaaS application from on-premise, bare-metal servers to AWS with only 5 hours of downtime",
+        "Improved the stability of our SaaS application by reducing the number of threads in use by over 80%"
+      ]
+    },
+    {
+      "company": "Praeses (acquired by Aptean Public Sector & Healthcare)",
+      "position": "Senior Software Developer",
+      "website": "",
+      "startDate": "2016-05-01",
+      "endDate": "2018-05-01",
+      "summary": "A technical leader for a distributed agile team. Also was the leader of an internal technical community that spread adoption of REST architecture through mentorship. Interviewed potential candidates and on-boarded new developers.",
+      "highlights": [
+        "Introduced a technique to quickly migrate away from VB6 by utilizing a custom COM+ application to call our REST API",
+        "Provided technical guidance and architecture for a rewrite of a key module that is accessed over 10 thousand times a day by our users",
+        "Combined, my team modernized over 50 pages of our product to support all modern browsers"
+      ]
+    },
+    {
+      "company": "Praeses (acquired by Aptean Public Sector & Healthcare)",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2013-06-01",
+      "endDate": "2016-05-01",
+      "summary": "Synergized talents with other customer success team members to rectify customer discrepancies.",
+      "highlights": [
+        "Implemented a RESTful API to enable customization of dynamic form creation and submission",
+        "Leveraged mediator pattern to simplify implementation of cross-cutting concerns which created a notable reduction in boilerplate code needed to include cross-cutting concerns in new features"
+      ]
+    },
+    {
+      "company": "Bowman Systems (now part of Mediware Information Systems, Inc)",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2011-05-01",
+      "endDate": "2013-06-01",
+      "summary": "Member of a team that preserved an ETL process for reporting PostgreSQL database that transferred ~3TB of data from multiple production databases each night",
+      "highlights": []
+    },
+    {
+      "company": "Bowman Systems (now part of Mediware Information Systems, Inc)",
+      "position": "Intern - Programmer",
+      "website": "",
+      "startDate": "2010-05-01",
+      "endDate": "2011-05-01",
+      "summary": "Member of the Customer Support team that worked on solving customer issues.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Louisiana in Shreveport",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2006-08-01",
+      "endDate": "2011-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "C#",
+        "T-SQL",
+        "Javascript",
+        "Typescript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Frameworks/Libraries",
+      "level": "",
+      "keywords": [
+        "ASP.NET MVC",
+        "ASP.NET Web Api",
+        "StructureMap",
+        "Aurelia",
+        "Knockout",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "DevOps/Tools",
+      "level": "",
+      "keywords": [
+        "SQL Server",
+        "TeamCity",
+        "Octopus",
+        "psake",
+        "git",
+        "powershell",
+        "AppDynamics",
+        "nuget",
+        "Jira",
+        "Visual Studio",
+        "Visual Studio Code"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

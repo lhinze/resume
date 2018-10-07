@@ -1,0 +1,16 @@
+{
+  "name": "Levi-Resume",
+  "version": "0.0.0",
+  "description": "Levi Hinze's resume.",
+  "main": "app.js",
+  "author": {
+    "name": "Levi Hinze",
+    "email": ""
+  },
+  "scripts": {
+    "test": "node ./node_modules/resume-cli/index.js export index -f html --theme stackoverflow"
+  },
+  "devDependencies": {
+    "resume-cli": "^0.4.19"
+  }
+}
