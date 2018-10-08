@@ -28,7 +28,7 @@
       "position": "Associate Architect",
       "website": "",
       "startDate": "2018-05-01",
-      "summary": "Responsible for providing technical guidance and the overall technical architecture of the regulatory software Jurisdiction Online.",
+      "summary": "Responsible for overall architecture of the regulatory software Jurisdiction Online, and provide technical guidance for team members.",
       "highlights": [
         "Migrated our SaaS application from on-premise, bare-metal servers to AWS with only 5 hours of downtime",
         "Improved the stability of our SaaS application by reducing the number of threads in use by over 80%"
@@ -40,11 +40,11 @@
       "website": "",
       "startDate": "2016-05-01",
       "endDate": "2018-05-01",
-      "summary": "A technical leader for a distributed agile team. Also was the leader of an internal technical community that spread adoption of REST architecture through mentorship. Interviewed potential candidates and on-boarded new developers.",
+      "summary": "Served as technical lead for a distributed agile team as well as an internal technical community that spread adoption of REST architecture through mentorship. Interviewed potential candidates and on-boarded new developers.",
       "highlights": [
-        "Introduced a technique to quickly migrate away from VB6 by utilizing a custom COM+ application to call our REST API",
-        "Provided technical guidance and architecture for a rewrite of a key module that is accessed over 10 thousand times a day by our users",
-        "Combined, my team modernized over 50 pages of our product to support all modern browsers"
+        "Reduced VB6 coupling by introducing a custom COM+ application to call our REST API",
+        "Provided technical guidance and architecture for a rewrite of a business critical module that is accessed over 10 thousand times a day by clients",
+        "Spearheaded team effort to modernize over 50 pages of our product to support all modern browsers"
       ]
     },
     {
@@ -53,10 +53,10 @@
       "website": "",
       "startDate": "2013-06-01",
       "endDate": "2016-05-01",
-      "summary": "Synergized talents with other customer success team members to rectify customer discrepancies.",
+      "summary": "Synergized talents with other customer success team members to rectify customer discrepancies and defect resolution.",
       "highlights": [
-        "Implemented a RESTful API to enable customization of dynamic form creation and submission",
-        "Leveraged mediator pattern to simplify implementation of cross-cutting concerns which created a notable reduction in boilerplate code needed to include cross-cutting concerns in new features"
+        "Implemented a REST API to enable customization of dynamic form creation and submission",
+        "Leveraged mediator pattern to simplify implementation of cross-cutting concerns which created a notable reduction in boilerplate code needed in new features"
       ]
     },
     {
